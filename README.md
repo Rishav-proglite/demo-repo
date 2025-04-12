@@ -1,1 +1,1 @@
-# demo-repo
+LR-1: Initial commit to link Github with Jira
